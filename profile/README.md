@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The Collabst Project
+We're the team behind the Collabst Project.
 
 <!--
 
